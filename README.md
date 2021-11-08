@@ -6,8 +6,6 @@ I'll polish the code later.
 
 ## UI reference by [ZeezCrypto](https://twitter.com/ZeezCrypto)
 
-![image](https://user-images.githubusercontent.com/4087388/122645950-81a7c280-d10c-11eb-8217-68f04b2dfe10.png)
-
 
 ## Screenshots
 <table>
