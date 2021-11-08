@@ -4,8 +4,6 @@ A quick flutter clone. I miss doing these 😂
 
 I'll polish the code later.
 
-## UI reference by [ZeezCrypto](https://twitter.com/ZeezCrypto)
-
 
 ## Screenshots
 <table>
